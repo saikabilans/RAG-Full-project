@@ -5,4 +5,7 @@ __pycache__/
 .git/
 .vscode/
 models/*
+!models/.gitkeep
+
 output/*
+!output/.gitkeep
