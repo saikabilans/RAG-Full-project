@@ -1,0 +1,17 @@
+
+TASK 1 REPORT
+=============
+
+Documents: 8
+Chunks: 8
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+Tested k values: 2, 5, 10
+Fallback threshold: 0.35
+Context budget: 350 tokens
+
+Output:
+output/task1/task1_results.json
+
+Models:
+models/embeddings.npy
+models/chunks.pkl

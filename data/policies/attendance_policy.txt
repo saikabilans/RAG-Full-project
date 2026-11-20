@@ -1,0 +1,9 @@
+Attendance_policy
+
+Department: HR
+Policy Year: 2026
+
+1. Employees are expected to record their attendance through the approved HRMS system.
+2. The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.
+3. Employees must complete the required sign-in and sign-out records for the working day.
+4. Attendance corrections should be reported to HR when an entry is missing or incorrect.

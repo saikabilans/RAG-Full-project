@@ -1,0 +1,12 @@
+
+TASK 3 REPORT
+=============
+
+Citation format:
+[Source: filename.txt, Page 1]
+
+Citation validation was performed
+against retrieved source chunks.
+
+Output:
+output/task3/task3_results.json

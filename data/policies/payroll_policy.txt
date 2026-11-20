@@ -1,0 +1,9 @@
+Payroll Policy
+
+Department: Finance
+Policy Year: 2026
+
+1. Monthly salary is processed according to the company's payroll schedule.
+2. Employees should review their payslip after payroll processing and report discrepancies to HR or Payroll.
+3. Statutory deductions are applied according to applicable company payroll requirements.
+4. Changes to bank account or payroll information should be submitted through the approved process.

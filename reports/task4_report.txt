@@ -1,0 +1,18 @@
+
+TASK 4 REPORT
+=============
+
+Golden dataset:
+data/golden.jsonl
+
+Total questions:
+15
+
+Retrieval successful:
+15
+
+Retrieval accuracy:
+100.00%
+
+Output:
+output/task4/task4_results.json

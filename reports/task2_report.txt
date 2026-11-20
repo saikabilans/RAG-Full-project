@@ -1,0 +1,12 @@
+
+TASK 2 REPORT
+=============
+
+Methods:
+1. BM25
+2. Dense vector retrieval
+3. Reciprocal Rank Fusion
+4. Cross-encoder reranking
+
+Output:
+output/task2/task2_results.json

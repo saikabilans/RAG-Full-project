@@ -1,0 +1,9 @@
+Work_from_home_policy
+
+Department: HR
+Policy Year: 2026
+
+1. Work from home is permitted only when approved by the employee's manager.
+2. Employees working remotely must remain available during their approved working hours.
+3. The employee is responsible for maintaining a suitable and secure working environment.
+4. Company data must be accessed only through approved devices and systems.

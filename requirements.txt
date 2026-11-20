@@ -1,0 +1,14 @@
+numpy
+pandas
+python-dotenv
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
+rank-bm25
+openai
+fastapi
+uvicorn
+pydantic
+ragas
+datasets
