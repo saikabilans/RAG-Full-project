@@ -1,0 +1,80 @@
+[
+  {
+    "question": "How many casual leaves are available per year?",
+    "answer": "Employees are eligible for 12 casual leaves per calendar year. [Source: leave_policy.txt, Page 1]",
+    "citations": [
+      [
+        "leave_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "What are the standard working hours?",
+    "answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved. [Source: attendance_policy.txt, Page 1]",
+    "citations": [
+      [
+        "attendance_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "Who must approve work from home?",
+    "answer": "Work from home is permitted only when approved by the employee's manager. [Source: work_from_home_policy.txt, Page 1]",
+    "citations": [
+      [
+        "work_from_home_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "What is overtime?",
+    "answer": "Overtime is work performed beyond the employee's normal approved working hours. [Source: overtime_policy.txt, Page 1]",
+    "citations": [
+      [
+        "overtime_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "What is required for travel expense claims?",
+    "answer": "Travel expense claims must be supported by valid receipts or other required documentation, and they should be submitted through the approved expense process after the trip [Source: travel_policy.txt, Page 1].",
+    "citations": [
+      [
+        "travel_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "Can employees claim personal expenses?",
+    "answer": "Personal expenses that are not related to authorized company work are not reimbursable [Source: reimbursement_policy.txt, Page 1].",
+    "citations": [
+      [
+        "reimbursement_policy.txt",
+        "1"
+      ]
+    ],
+    "invalid_citations": []
+  },
+  {
+    "question": "Who won the football World Cup?",
+    "answer": "I don't have information on that.",
+    "citations": [],
+    "invalid_citations": []
+  },
+  {
+    "question": "What is today's weather in Chennai?",
+    "answer": "I don't have information on that.",
+    "citations": [],
+    "invalid_citations": []
+  }
+]

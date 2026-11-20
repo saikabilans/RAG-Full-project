@@ -1,0 +1,212 @@
+[
+  {
+    "k": 2,
+    "question": "How many casual leaves are available per year?",
+    "answer": "Employees are eligible for 12 casual leaves per calendar year.",
+    "score": 0.3808176517486572,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "Where should planned leave requests be submitted?",
+    "answer": "Leave requests should be submitted through the HRMS portal.",
+    "score": 0.5083980560302734,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "What are the standard working hours?",
+    "answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.",
+    "score": 0.46053314208984375,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "Who must approve work from home?",
+    "answer": "The employee's manager must approve work from home.",
+    "score": 0.5702297687530518,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "What is overtime?",
+    "answer": "Overtime is work performed beyond the employee's normal approved working hours.",
+    "score": 0.5795152187347412,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "What is required for travel expense claims?",
+    "answer": "Travel expenses must be supported by valid receipts or other required documentation.",
+    "score": 0.6388636231422424,
+    "llm_called": true
+  },
+  {
+    "k": 2,
+    "question": "Who won the football World Cup?",
+    "answer": "I don't have information on that.",
+    "score": 0.018593445420265198,
+    "llm_called": false
+  },
+  {
+    "k": 2,
+    "question": "What is today's weather in Chennai?",
+    "answer": "I don't have information on that.",
+    "score": 0.07608358561992645,
+    "llm_called": false
+  },
+  {
+    "k": 2,
+    "question": "What is the current price of gold?",
+    "answer": "I don't have information on that.",
+    "score": 0.050731781870126724,
+    "llm_called": false
+  },
+  {
+    "k": 2,
+    "question": "What is the price of Bitcoin today?",
+    "answer": "I don't have information on that.",
+    "score": 0.05095918849110603,
+    "llm_called": false
+  },
+  {
+    "k": 5,
+    "question": "How many casual leaves are available per year?",
+    "answer": "Employees are eligible for 12 casual leaves per calendar year.",
+    "score": 0.3808176517486572,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "Where should planned leave requests be submitted?",
+    "answer": "Leave requests should be submitted through the HRMS portal.",
+    "score": 0.5083980560302734,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "What are the standard working hours?",
+    "answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.",
+    "score": 0.46053314208984375,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "Who must approve work from home?",
+    "answer": "The employee's manager must approve work from home.",
+    "score": 0.5702297687530518,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "What is overtime?",
+    "answer": "Overtime is work performed beyond the employee's normal approved working hours.",
+    "score": 0.5795152187347412,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "What is required for travel expense claims?",
+    "answer": "Travel expenses must be supported by valid receipts or other required documentation.",
+    "score": 0.6388636231422424,
+    "llm_called": true
+  },
+  {
+    "k": 5,
+    "question": "Who won the football World Cup?",
+    "answer": "I don't have information on that.",
+    "score": 0.018593445420265198,
+    "llm_called": false
+  },
+  {
+    "k": 5,
+    "question": "What is today's weather in Chennai?",
+    "answer": "I don't have information on that.",
+    "score": 0.07608358561992645,
+    "llm_called": false
+  },
+  {
+    "k": 5,
+    "question": "What is the current price of gold?",
+    "answer": "I don't have information on that.",
+    "score": 0.050731781870126724,
+    "llm_called": false
+  },
+  {
+    "k": 5,
+    "question": "What is the price of Bitcoin today?",
+    "answer": "I don't have information on that.",
+    "score": 0.05095918849110603,
+    "llm_called": false
+  },
+  {
+    "k": 10,
+    "question": "How many casual leaves are available per year?",
+    "answer": "Employees are eligible for 12 casual leaves per calendar year.",
+    "score": 0.3808176517486572,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "Where should planned leave requests be submitted?",
+    "answer": "Leave requests should be submitted through the HRMS portal.",
+    "score": 0.5083980560302734,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "What are the standard working hours?",
+    "answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.",
+    "score": 0.46053314208984375,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "Who must approve work from home?",
+    "answer": "The employee's manager must approve work from home.",
+    "score": 0.5702297687530518,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "What is overtime?",
+    "answer": "Overtime is work performed beyond the employee's normal approved working hours.",
+    "score": 0.5795152187347412,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "What is required for travel expense claims?",
+    "answer": "Travel expenses must be supported by valid receipts or other required documentation.",
+    "score": 0.6388636231422424,
+    "llm_called": true
+  },
+  {
+    "k": 10,
+    "question": "Who won the football World Cup?",
+    "answer": "I don't have information on that.",
+    "score": 0.018593445420265198,
+    "llm_called": false
+  },
+  {
+    "k": 10,
+    "question": "What is today's weather in Chennai?",
+    "answer": "I don't have information on that.",
+    "score": 0.07608358561992645,
+    "llm_called": false
+  },
+  {
+    "k": 10,
+    "question": "What is the current price of gold?",
+    "answer": "I don't have information on that.",
+    "score": 0.050731781870126724,
+    "llm_called": false
+  },
+  {
+    "k": 10,
+    "question": "What is the price of Bitcoin today?",
+    "answer": "I don't have information on that.",
+    "score": 0.05095918849110603,
+    "llm_called": false
+  }
+]

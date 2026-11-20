@@ -4,8 +4,3 @@ __pycache__/
 .env
 .git/
 .vscode/
-models/*
-!models/.gitkeep
-
-output/*
-!output/.gitkeep

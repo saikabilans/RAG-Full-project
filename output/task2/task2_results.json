@@ -1,0 +1,58 @@
+[
+  {
+    "question": "How many casual leaves are available?",
+    "bm25_top": "leave_policy.txt",
+    "vector_top": "leave_policy.txt",
+    "hybrid_top": "leave_policy.txt",
+    "reranked_top": "leave_policy.txt"
+  },
+  {
+    "question": "Where should leave requests be submitted?",
+    "bm25_top": "leave_policy.txt",
+    "vector_top": "leave_policy.txt",
+    "hybrid_top": "leave_policy.txt",
+    "reranked_top": "leave_policy.txt"
+  },
+  {
+    "question": "What are the normal working hours?",
+    "bm25_top": "overtime_policy.txt",
+    "vector_top": "attendance_policy.txt",
+    "hybrid_top": "overtime_policy.txt",
+    "reranked_top": "attendance_policy.txt"
+  },
+  {
+    "question": "Who approves work from home?",
+    "bm25_top": "work_from_home_policy.txt",
+    "vector_top": "work_from_home_policy.txt",
+    "hybrid_top": "work_from_home_policy.txt",
+    "reranked_top": "work_from_home_policy.txt"
+  },
+  {
+    "question": "When is work considered overtime?",
+    "bm25_top": "overtime_policy.txt",
+    "vector_top": "overtime_policy.txt",
+    "hybrid_top": "overtime_policy.txt",
+    "reranked_top": "overtime_policy.txt"
+  },
+  {
+    "question": "What is needed for travel expenses?",
+    "bm25_top": "travel_policy.txt",
+    "vector_top": "travel_policy.txt",
+    "hybrid_top": "travel_policy.txt",
+    "reranked_top": "travel_policy.txt"
+  },
+  {
+    "question": "Can personal expenses be reimbursed?",
+    "bm25_top": "reimbursement_policy.txt",
+    "vector_top": "reimbursement_policy.txt",
+    "hybrid_top": "reimbursement_policy.txt",
+    "reranked_top": "reimbursement_policy.txt"
+  },
+  {
+    "question": "How should payroll problems be reported?",
+    "bm25_top": "payroll_policy.txt",
+    "vector_top": "payroll_policy.txt",
+    "hybrid_top": "payroll_policy.txt",
+    "reranked_top": "payroll_policy.txt"
+  }
+]

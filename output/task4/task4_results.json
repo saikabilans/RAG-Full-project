@@ -1,0 +1,212 @@
+[
+  {
+    "question": "How many casual leaves are available per year?",
+    "reference_answer": "Employees are eligible for 12 casual leaves per calendar year.",
+    "generated_answer": "Employees are eligible for 12 casual leaves per calendar year.",
+    "expected_source": "leave_policy.txt",
+    "retrieved_sources": [
+      "leave_policy.txt",
+      "payroll_policy.txt",
+      "overtime_policy.txt",
+      "travel_policy.txt",
+      "benefits_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "Where should planned leave requests be submitted?",
+    "reference_answer": "Planned leave requests should be submitted through the HRMS portal.",
+    "generated_answer": "Planned leave requests should be submitted through the HRMS portal.",
+    "expected_source": "leave_policy.txt",
+    "retrieved_sources": [
+      "leave_policy.txt",
+      "travel_policy.txt",
+      "work_from_home_policy.txt",
+      "attendance_policy.txt",
+      "benefits_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What are the standard working hours?",
+    "reference_answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.",
+    "generated_answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved.",
+    "expected_source": "attendance_policy.txt",
+    "retrieved_sources": [
+      "attendance_policy.txt",
+      "overtime_policy.txt",
+      "work_from_home_policy.txt",
+      "leave_policy.txt",
+      "payroll_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What should an employee do if an attendance entry is missing?",
+    "reference_answer": "Attendance corrections should be reported to HR when an entry is missing or incorrect.",
+    "generated_answer": "Attendance corrections should be reported to HR when an entry is missing or incorrect.",
+    "expected_source": "attendance_policy.txt",
+    "retrieved_sources": [
+      "attendance_policy.txt",
+      "leave_policy.txt",
+      "reimbursement_policy.txt",
+      "benefits_policy.txt",
+      "overtime_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "Who must approve work from home?",
+    "reference_answer": "Work from home must be approved by the employee's manager.",
+    "generated_answer": "The employee's manager must approve work from home.",
+    "expected_source": "work_from_home_policy.txt",
+    "retrieved_sources": [
+      "work_from_home_policy.txt",
+      "reimbursement_policy.txt",
+      "travel_policy.txt",
+      "attendance_policy.txt",
+      "leave_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What is overtime?",
+    "reference_answer": "Overtime is work performed beyond the employee's normal approved working hours.",
+    "generated_answer": "Overtime is work performed beyond the employee's normal approved working hours.",
+    "expected_source": "overtime_policy.txt",
+    "retrieved_sources": [
+      "overtime_policy.txt",
+      "attendance_policy.txt",
+      "work_from_home_policy.txt",
+      "leave_policy.txt",
+      "payroll_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What should employees do after receiving their payslip?",
+    "reference_answer": "Employees should review their payslip and report discrepancies to HR or Payroll.",
+    "generated_answer": "Employees should review their payslip after payroll processing and report discrepancies to HR or Payroll.",
+    "expected_source": "payroll_policy.txt",
+    "retrieved_sources": [
+      "payroll_policy.txt",
+      "reimbursement_policy.txt",
+      "overtime_policy.txt",
+      "benefits_policy.txt",
+      "travel_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What is required for travel expense claims?",
+    "reference_answer": "Travel expenses must be supported by valid receipts or other required documentation.",
+    "generated_answer": "Travel expenses must be supported by valid receipts or other required documentation.",
+    "expected_source": "travel_policy.txt",
+    "retrieved_sources": [
+      "travel_policy.txt",
+      "reimbursement_policy.txt",
+      "payroll_policy.txt",
+      "leave_policy.txt",
+      "work_from_home_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What are the requirements for submitting a travel claim?",
+    "reference_answer": "Business travel should be approved before booking, and travel claims should be submitted through the approved expense process after the trip.",
+    "generated_answer": "Travel claims should be submitted through the approved expense process after the trip and must be supported by valid receipts or other required documentation.",
+    "expected_source": "travel_policy.txt",
+    "retrieved_sources": [
+      "travel_policy.txt",
+      "reimbursement_policy.txt",
+      "leave_policy.txt",
+      "work_from_home_policy.txt",
+      "payroll_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "Can employees claim personal expenses?",
+    "reference_answer": "Personal expenses that are not related to authorized company work are not reimbursable.",
+    "generated_answer": "No, personal expenses that are not related to authorized company work are not reimbursable.",
+    "expected_source": "reimbursement_policy.txt",
+    "retrieved_sources": [
+      "reimbursement_policy.txt",
+      "travel_policy.txt",
+      "payroll_policy.txt",
+      "work_from_home_policy.txt",
+      "benefits_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What are the working hours and what attendance records must employees complete?",
+    "reference_answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved, and employees must complete the required sign-in and sign-out records.",
+    "generated_answer": "The standard working hours are 10:00 AM to 6:00 PM unless otherwise approved. Employees must complete the required sign-in and sign-out records for the working day.",
+    "expected_source": "attendance_policy.txt",
+    "retrieved_sources": [
+      "attendance_policy.txt",
+      "overtime_policy.txt",
+      "work_from_home_policy.txt",
+      "reimbursement_policy.txt",
+      "leave_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What is required before business travel and after the trip?",
+    "reference_answer": "Business travel should be approved before tickets or accommodation are booked, and travel claims should be submitted through the approved expense process after the trip.",
+    "generated_answer": "Before business travel, approval is required before tickets or accommodation are booked. After the trip, travel claims should be submitted through the approved expense process.",
+    "expected_source": "travel_policy.txt",
+    "retrieved_sources": [
+      "travel_policy.txt",
+      "reimbursement_policy.txt",
+      "leave_policy.txt",
+      "work_from_home_policy.txt",
+      "attendance_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "Who won the football World Cup?",
+    "reference_answer": "I don't have information on that.",
+    "generated_answer": "I don't have information on that.",
+    "expected_source": "",
+    "retrieved_sources": [
+      "work_from_home_policy.txt",
+      "reimbursement_policy.txt",
+      "overtime_policy.txt",
+      "payroll_policy.txt",
+      "travel_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What is today's weather in Chennai?",
+    "reference_answer": "I don't have information on that.",
+    "generated_answer": "I don't have information on that.",
+    "expected_source": "",
+    "retrieved_sources": [
+      "payroll_policy.txt",
+      "work_from_home_policy.txt",
+      "attendance_policy.txt",
+      "leave_policy.txt",
+      "overtime_policy.txt"
+    ],
+    "retrieval_success": true
+  },
+  {
+    "question": "What is the current price of gold?",
+    "reference_answer": "I don't have information on that.",
+    "generated_answer": "I don't have information on that.",
+    "expected_source": "",
+    "retrieved_sources": [
+      "payroll_policy.txt",
+      "travel_policy.txt",
+      "work_from_home_policy.txt",
+      "attendance_policy.txt",
+      "reimbursement_policy.txt"
+    ],
+    "retrieval_success": true
+  }
+]
